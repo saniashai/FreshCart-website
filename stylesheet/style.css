@@ -1,0 +1,70 @@
+.pick-btn{
+    background-color: white;
+    border: solid 1px #c1c7c6;
+    color: rgba(0, 0, 0, 0.834);
+    border-radius: 5px;
+    width: 150px;
+    height: 40px;
+}
+.pick-btn:hover{
+    background-color: #c1c7c6;
+    color: #0aad0a;
+}
+.heart-icon:hover{
+  color: #0aad0a;
+}
+.contact-icon:hover{
+    color: #0aad0a;
+}
+.shoping-icon:hover{
+    color: #0aad0a;
+}
+
+.navbar-1{
+    background-color: #0aad0a;
+}
+.img-1{
+    background-image: url(../images/banner-1.jpg);
+}
+.img-2{
+    background-image: url(../images/banner-2.jpg);
+}
+.img-3{
+    background-image: url(../images/banner-3.jpg);
+}
+.img-1{
+    padding: 30px 30px;
+}
+.img-2{
+    padding: 30px 30px;
+}
+.img-3{
+    padding: 30px 30px;
+}
+
+.btn-share{
+    background-color: #0aad0a;
+    color: white;
+    border: none;
+    height: 38px;
+    width: 135px;
+    border-radius: 5px;
+}
+.text{
+    color: #0aad0a;
+}
+.footer-text:hover{
+    color: #0aad0a;
+}
+.register-btn{
+background-color: #0aad0a;
+border: none;
+border-radius: 5px;
+height: 40px;
+}
+.signin-btn{
+background-color: #0aad0a;
+border: none;
+border-radius: 5px;
+height: 40px;
+}
